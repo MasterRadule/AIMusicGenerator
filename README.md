@@ -1,6 +1,6 @@
 # AIMusicGenerator
 
-Project for the subject Computational Intelligence Fundamentals
+Project for course "Computational Intelligence Fundamentals" at Faculty of Technical Sciences, University of Novi Sad.
 
 <ul>
   <li>Team members: Danijel Radulović, Dragan Ćulibrk (https://github.com/draganculibrk9)</li>
