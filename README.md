@@ -3,7 +3,7 @@
 Project for the subject Computational Intelligence Fundamentals
 
 <ul>
-  <li>Team members: Danijel Radulović, Dragan Ćulibrk</li>
+  <li>Team members: Danijel Radulović, Dragan Ćulibrk (https://github.com/draganculibrk9)</li>
   <br>
   <li>Teaching assistant: Aleksandar Lukić</li>
   <br>
